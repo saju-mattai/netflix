@@ -1,0 +1,318 @@
+body {
+    margin: 0px;
+}
+
+.background {
+    width: 100%;
+    height: 1000px;
+    box-shadow: inset 0 0 2500px #000000;
+
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/0f07b807-7be1-457d-be88-eb9153d5d4e9/8db04df8-caaf-4f19-8e51-9309664068b2/IN-en-20220815-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+
+}
+
+.gradient{
+    background: radial-gradient(transparent,black);
+    width: 100%;
+    height: 100%;
+}
+
+
+.main-logo {
+    width: 100%;
+    height: 80px;
+
+
+}
+
+.imgnet {
+    height: 94%;
+    padding-left: 56px;
+    padding-top: 10px;
+    float: left;
+}
+
+
+
+
+
+.Eng {
+
+    float: left;
+    margin-left: 812px;
+    margin-top: 27px;
+
+
+
+}
+
+.eng2 {
+    width: 85px;
+    height: 32px;
+    background-color: rgba(255, 255, 255, .2);
+    color: white;
+    border-radius: 3px;
+    border-color: aliceblue;
+    padding-left: 14px
+}
+
+.button_1 {
+    width: 87px;
+    height: 34px;
+    padding-left: 8px;
+    margin-left: 31px;
+    background: #e50914;
+    color: white;
+    border-radius: 3px;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+.center {
+    width: 50%;
+    height: 400px;
+    margin-left: 25%;
+    margin-top: 157px;
+    
+
+    font-size: 40px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: white;
+    text-shadow: 1px 1px black;
+   
+}
+
+.unlimited {
+    width: 100%;
+    height: 160px;
+    
+}
+
+.center-1 {
+    padding-left: 16px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 49px;
+    margin-top: -21px;
+    
+}
+
+.watch {
+    width: 100%;
+    height: 50px;
+  
+}
+.p1{
+    margin-top: -6%;
+    font-size: 26px;
+    padding-left: 129px;
+}
+.sub1{
+    width: 100%;
+    height: 100px;
+    
+    
+}
+.sub2{
+    margin-top: 12px;
+    font-size: 1.2rem;
+}
+.Email{
+    width: 100%;
+    height: 84px;
+    
+    margin-top: -62px;
+}
+.Em{
+    height: 44px;
+    padding: 10px 10px 0;
+    width: 69%;
+    padding-left: 16px;
+    float: left;
+}
+.Gt{
+    width: 26%;
+    height: 59px;
+    float: left;
+    margin-left: 466px;
+   
+    margin-top: -59px;
+    
+    color: #fff;
+    background-image: linear-gradient(180deg,#e50914,#db0510);
+    box-shadow: 0 1px 0 rgb(0 0 0 / 45%);
+    font-weight: bold;
+    vertical-align: middle;
+    border: transparent;
+    font-size: 18px;
+    cursor: pointer;
+}
+.Req{
+    margin-top: -4%;
+    color: #e50914;
+    font-size: small;
+    padding-top: 4px;
+    text-shadow: none;
+    
+}
+.content{
+    width: 100%;
+    height: 465px;
+    background:black;
+    margin-top: 8px;
+}
+.left-section{
+    width: 50%;
+    height: 465px;
+    background:#000000;
+    float: left;
+}
+.En{
+    color: #fff;
+    padding-left: 72px;
+    padding-top: 114px; 
+    font-size: 3.125rem;
+    line-height: 1.1;
+    margin-bottom: .5rem;
+}
+.Wat{
+    color: #fff;
+    font-size: 1.625rem;
+    font-weight: 400;
+    padding-left: 68px;
+    font-style: initial;
+   
+}
+.right-section{
+    width: 50%;
+    height: 465px;
+    
+    float: left;
+    position: relative;
+   
+    
+}
+.videoloop{
+    width: 391px;
+    margin-top: 86px;
+    margin-left: 154px;
+}
+.imga{
+    /* background-image: url('image/video-to-gif-converter.gif');  */
+    width: 466px;
+    height: 429px;
+    margin-left: 80px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+    background-position: 70px;
+    
+    
+}
+
+.photo_1{
+    width:  543px;
+    position: absolute;
+    top: 0%;
+}
+.content-1{
+    width: 100%;
+    height: 462px;
+
+    margin-top: 8px
+}
+.left-sec{
+    width: 50%;
+    height: 462px;
+    background: #000000;
+    float: left;
+}
+.img-ele{
+    height: 371px;
+}
+
+.right-sec{
+    width: 50%;
+    height: 462px;
+    font-size: 3.125rem;
+    line-height: 1.1;
+    margin-bottom: .5rem;
+    float: left;
+    background: #000000;
+}
+.Down{
+    padding-top: 69px;
+    color: #fff;
+}
+.Save{
+    color: #fff;
+    font-size: 1.625rem;
+    font-weight: 400;
+}
+.content-2{
+    width: 100%;
+    height: 462px;
+    background: #db0510;
+    margin-top: 7px;
+   
+}
+.left-sec2{
+    width: 50%;
+    height: 436px;
+    background: black;
+    color: white;
+    padding-top: 26px;
+    float: left;
+}
+.W{
+    padding-top: 5%;
+    padding-left: 85px;
+    /* height: 44px; */
+    font-size: 52px;
+}
+.S{
+    padding-left: 85px;
+    font-size: 26px;
+}
+.right-sec2{
+    width: 50%;
+    height: 462px;
+    background: black;
+    float: left;
+
+}
+.content-3{
+    width: 100%;
+    height: 462px;
+    background: black;
+    margin-top: 7px;
+}
+.left-sec3{
+    width: 50%;
+    height: 462px;
+    background: rgb(219, 8, 163);
+    float: left;
+}
+.anime{
+    height: 462px;
+    width: 100%;
+}
+.right-sec3{
+    width: 50%;
+    height: 462px;
+    background: black;
+    float: left;
+}
+.Create{
+    font-size: 3.125rem;
+    line-height: 1.1;
+    margin-bottom: .5rem;
+    font-size: 52px;
+    color: white;
+    padding-top: 28px;
+}
+.Send{
+    font-size: 1.625rem;
+    font-weight: 400;
+    color: white;
+    margin-top: 18px;
+}
